@@ -4,3 +4,5 @@
  provides a comprehensive analysis of credit card usage,
  revenue generation, and demographic insights. The dashboard visualizes key metrics related to 
  different credit card categories, transaction types, and customer demographics.
+## Dashboard Insights
+## 1. Key Financial Metrics
